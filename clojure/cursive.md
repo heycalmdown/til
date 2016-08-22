@@ -3,3 +3,9 @@
 [IntelliJ + Cursive 클로저 개발 환경 만들기](http://manmyung.github.io/2015/03/17/post.html)
 
 REPL 단축키를 따라했을 뿐인데 많은 것을 배웠다.
+
+# paraedit
+
+- slurp - '쩝쩝'
+- burp - '꺼억'
+
