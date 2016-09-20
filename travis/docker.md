@@ -1,0 +1,3 @@
+- https://github.com/docker-library/rabbitmq/blob/master/.travis.yml
+- https://blog.travis-ci.com/2015-08-19-using-docker-on-travis-ci/
+- https://github.com/spearhead-ea/island/blob/master/.travis.yml
