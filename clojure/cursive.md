@@ -9,3 +9,7 @@ REPL 단축키를 따라했을 뿐인데 많은 것을 배웠다.
 - slurp - '쩝쩝'
 - burp - '꺼억'
 
+# test
+
+- https://cursive-ide.com/userguide/testing.html
+- https://github.com/marick/Midje
