@@ -66,6 +66,7 @@
     * Reason과 OCaml이 거의 같은 언어이고 OCaml은 바이너리를 생성하는 언어이므로 말이 그렇다는 것이다
     * OCaml 개발 환경에서 문법만 Reason을 사용해야 한다
     * 툴체인이 아직 [초보 단계다](https://reasonml.github.io/docs/en/native?fbclid=IwAR3rJeK34C5ejv1EnNcQzGc2czcyqZsozRrryuWFvEqi0asz07jOmeiGqow)
+    * 그럴거면 그냥 OCaml을 쓰자
     * 불길을 한 번 지나가보려면 아래를 참고
         * https://esy.sh
         * https://github.com/jordwalke/pesy
