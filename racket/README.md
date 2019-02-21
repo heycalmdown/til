@@ -1,5 +1,7 @@
 # Racket
 
+![Logo](https://upload.wikimedia.org/wikipedia/commons/8/8c/Racket-logo.png)
+
 * LISP-Scheme 계열의 방언(DrScheme = DrRacket)
 * [공식 페이지](https://racket-lang.org) - 좀 늙어보인다
 * [공식 문서](https://docs.racket-lang.org) - 굉장히 잘 돼 있다. 검색도 편하지만 뭘 찾아야될지 모를 때는 구글에서 그냥 racket 키워드를 포함해서 찾으면 잘 나온다
@@ -8,6 +10,7 @@
     * 심지어 gmane mirror 링크는 다 깨져있다
     * IRC와 Slack이 있는데 냄새나서 IRC는 안 들어가봄
 * Online book - [Beautiful Racket](https://beautifulracket.com)
+* [awesome-racket](https://github.com/avelino/awesome-racket)
 
 ## 첫인상
 
@@ -68,5 +71,7 @@ world
 
 * (=pip =npm)
 * REPL이 원체 꼬졌기 때문에 `xrepl`을 꼭 깔아주자
+    * 얼마나 꼬졌냐면 `^p`나 `^n`도 심지어 방향키도 안 먹는다
 * 패키지 이름이 packagename-lib 형태로 되어 있다. 문서에는 packagename까지만 나와 있으니 주의
-* threading -> threading-lib
+    * xrepl -> xrepl-lib
+    * threading -> threading-lib
