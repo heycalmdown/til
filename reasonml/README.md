@@ -15,8 +15,8 @@
 
 * 의외로 Elixir가 빨랐다 - Erlang과 VM을 노나 쓰기 때문에 Clojure 만큼은 아니라도 풍부한 라이브러리가 제공됐다
 * ReasonML - 페이스북에서 만들고 있고, 컴파일 속도가 매우 빠르며, JavaScript 또는 OCaml과 생태계를 공유하고 있다
-* Racket - 좀 고루한 느낌이고 최초에는 생각이 안 났음
-
+* [Racket](../racket/README.md) - 좀 고루한 느낌이고 최초에는 생각이 안 났음
+ 
 ## 좋은 첫인상
 
 * 함수형 언어들이 CS 박사님들이 나이가 들어선지 취향이 늙어선지 전반적으로 웹페이지가 고루한 편
@@ -26,7 +26,7 @@
 * 컴파일 언어이고, 컴파일이 빠르며, incremental build 할 때 매우 빠르다
 * JavaScript로 transpile 되거나, Native로 컴파일 할 수 있다
 * JavaScript로 transpile 되는 경우 npm을 쓸 수 있고, Native일 경우 OCaml 생태계를 활용할 수 있다
-* 원래 이름은 Reason인데 너무 일반적인 단어라서 필요하면 ReasonML이라고 부르는 듯
+* 원래 이름은 Reason인데 너무 일반적인 단어라서 필요하면 ReasonML이라고 부르는 듯(Go와 golang의 관계처럼)
 
 ## 참고할만한 페이지
 
@@ -38,6 +38,7 @@
 * 깊이 들여다보려면 [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
 * Reason 전용 [npm 패키지 - Redex](https://redex.github.io)
 * 괜찮은 [블로그](https://til.hashrocket.com/reasonml)
+* [awesome-reasonml](https://github.com/vramana/awesome-reasonml)
 
 ## 재밌다!
 
