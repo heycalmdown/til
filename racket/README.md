@@ -7,7 +7,7 @@
     * 아재들답게 당당하게 [메일링 리스트](https://lists.racket-lang.org)를 소개하고 있다
     * 심지어 gmane mirror 링크는 다 깨져있다
     * IRC와 Slack이 있는데 냄새나서 IRC는 안 들어가봄
-* Online book [Beautiful Racket](https://beautifulracket.com)
+* Online book - [Beautiful Racket](https://beautifulracket.com)
 
 ## 첫인상
 
