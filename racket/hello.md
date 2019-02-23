@@ -15,7 +15,7 @@ Racket 코드는 다음 세 가지 방법으로 실행 가능하다
 ## Shell script
 
 ```bash
-$ chmod hello.rkt
+$ chmod +x hello.rkt
 $ ./hello.rkt
 "hello, world"
 ```
